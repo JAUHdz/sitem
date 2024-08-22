@@ -6,7 +6,7 @@ import Contacto from '../views/ContactoView.vue'
 
 
 const router = createRouter({
-  history: createWebHashHistory('/'),
+  history: createWebHashHistory('#'),
   routes: [
     {
       path: '/',
