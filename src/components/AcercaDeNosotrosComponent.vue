@@ -2,7 +2,7 @@
     <div>
         <div class="mision-vision">
             <div class="mision">
-                <img class="img" src="/src/assets/mision.png" alt="mision">
+                <img class="img" src="/sitem/src/assets/mision.png" alt="mision">
                 <div class="texto-mision-vision">
                     <h2 class="titulo">Misión</h2>
                     <p>En SITEM, nos comprometemos a proporcionar servicios integrales de mantenimiento
@@ -12,7 +12,7 @@
                 </div>
             </div>
             <div class="vision">
-                <img class="img" src="/src/assets/vision.png" alt="vision">
+                <img class="img" src="/sitem/src/assets/vision.png" alt="vision">
                 <div class="texto-mision-vision">
                     <h2 class="titulo">Visión</h2>
                     <p>Nos visualizamos como la empresa líder en el mercado de mantenimiento industrial,
@@ -27,7 +27,7 @@
         <h1 class="titulo">Valores</h1>
         <div class="valores">
             <div class="contenido-valores">
-                <img class="img-valores" src="/src/assets/compromiso.png" alt="compromiso">
+                <img class="img-valores" src="/sitem/src/assets/compromiso.png" alt="compromiso">
                 <div class="texto-valores">
                     <h2 class="titulo">Compromiso con la Excelencia</h2>
                     <p>Nos esforzamos por alcanzar la excelencia en cada servicio
@@ -36,7 +36,7 @@
                 </div>
             </div>
             <div class="contenido-valores">
-                <img class="img-valores" src="/src/assets/eti.png" alt="etica">
+                <img class="img-valores" src="/sitem/src/assets/eti.png" alt="etica">
                 <div class="texto-valores">
                     <h2 class="titulo">Integridad y Ética Profesional</h2>
                     <p>Actuamos con honestidad, transparencia y ética en todas
@@ -45,7 +45,7 @@
                 </div>
             </div>
             <div class="contenido-valores">
-                <img class="img-valores" src="/src/assets/in.png" alt="innovacion">
+                <img class="img-valores" src="/sitem/src/assets/in.png" alt="innovacion">
                 <div class="texto-valores">
                     <h2 class="titulo">Innovación Constante</h2>
                     <p>Promovemos la innovación en todas nuestras prácticas, adoptando
@@ -53,7 +53,7 @@
                 </div>
             </div>
             <div class="contenido-valores">
-                <img class="img-valores" src="/src/assets/cli.png" alt="orientacion al cliente">
+                <img class="img-valores" src="/sitem/src/assets/cli.png" alt="orientacion al cliente">
                 <div class="texto-valores">
                     <h2 class="titulo">Orientación al Cliente</h2>
                     <p>Colocamos las necesidades y objetivos de nuestros clientes en el
@@ -62,7 +62,7 @@
                 </div>
             </div>
             <div class="contenido-valores">
-                <img class="img-valores" src="/src/assets/eq.png" alt="equipo">
+                <img class="img-valores" src="/sitem/src/assets/eq.png" alt="equipo">
                 <div class="texto-valores">
                     <h2 class="titulo">Trabajo en Equipo</h2>
                     <p>Fomentamos un ambiente colaborativo donde el talento y la experiencia
@@ -74,7 +74,7 @@
 
         <h1 class="titulo">Experiencia Profesional</h1>
         <div class="experiencia">
-            <img class="img-exp" src="/src/assets/experiencia.png" alt="equipo trabajo">
+            <img class="img-exp" src="/sitem/src/assets/experiencia.png" alt="equipo trabajo">
             <div class="texto-exp">
                 <ul>
                     <li>Diagnóstico de fallas, reparación a equipos electrónicos y mecánicos, incluyendo sistemas de control y automatización.</li>
@@ -89,7 +89,7 @@
 
         <h1 class="titulo">Equipo de Trabajo</h1>
         <div class="equipo-trabajo">
-            <img class="img-trabajo" src="/src/assets/equipo-t.png" alt="equipo trabajo">
+            <img class="img-trabajo" src="/sitem/src/assets/equipo-t.png" alt="equipo trabajo">
             <div class="texto-trabajo">
                 <ul>
                     <li>Ingenieros mecánicos y electrónicos.</li>
@@ -110,7 +110,7 @@
         <div class="clientes">
             <div class="cards">
                 <div class="card c1" style="width: 20rem;">
-                    <img style="margin-top: 25px;" src="/src/assets/cruzazul.png" class="card-img-top" alt="...">
+                    <img style="margin-top: 25px;" src="/sitem/src/assets/cruzazul.png" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">CONCRETOS CRUZ AZUL</h5>
                         <p class="card-text">Es una empresa responsable dedicada a la comercialización de concreto premezclado, venta de cemento y materiales para construcción.</p>
@@ -118,7 +118,7 @@
                 </div>
 
                 <div class="card c4" style="width: 20rem;">
-                    <img style="margin-top: 25px;" src="/src/assets/Cemex.png" class="card-img-top" alt="...">
+                    <img style="margin-top: 25px;" src="/sitem/src/assets/Cemex.png" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">CEMEX</h5>
                         <p class="card-text">Es una empresa que crea valor sostenido al proveer productos y soluciones para satisfacer las necesidades de construcción de sus clientes en México y el mundo</p>
@@ -127,7 +127,7 @@
 
                 <div class="card c5" style="width: 20rem;">
                     <div style="display: flex; justify-content: center;">
-                        <img style="margin-top: 25px;" src="/src/assets/oxxo.png" class="card-img-top imagen-cards" alt="...">
+                        <img style="margin-top: 25px;" src="/sitem/src/assets/oxxo.png" class="card-img-top imagen-cards" alt="...">
                     </div>
                     <div class="card-body">
                         <h5 class="card-title">OXXO</h5>
@@ -140,7 +140,7 @@
         <h1 class="titulo">Certificaciones/Capacitaciones</h1>
         <div class="certificaciones">
             <div>
-                <img class="imagen-cert" src="/src/assets/certificacion.jpg" alt="imagen-cert">
+                <img class="imagen-cert" src="/sitem/src/assets/certificacion.jpg" alt="imagen-cert">
             </div>
             <div class="contenido-certificaciones">
                 <ul>
@@ -148,7 +148,7 @@
                     <li>Capacitación en buenas prácticas de manufactura.</li>
                 </ul>
             </div>
-            <img class="imagen-c" src="/src/assets/certificacion.jpg" alt="imagen-cert">
+            <img class="imagen-c" src="/sitem/src/assets/certificacion.jpg" alt="imagen-cert">
         </div>
 
     </div>
