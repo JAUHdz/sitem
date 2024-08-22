@@ -9,9 +9,9 @@
         <a style="color: black" href="/">SITEM</a>
       </div>
        <ul class="toolbar-nav">
-         <li><a href="/acercadenosotros">Acerca de Nosotros</a></li>
-         <li><a href="/servicios">Servicios</a></li>
-         <li><a href="/contacto">Contacto</a></li>
+         <li><a href="/sitem/acercadenosotros">Acerca de Nosotros</a></li>
+         <li><a href="/sitem/servicios">Servicios</a></li>
+         <li><a href="/sitem/contacto">Contacto</a></li>
        </ul>
      </div>
    </nav>
@@ -35,9 +35,9 @@
       </div>
       <div class="offcanvas-body">
         <ul class="nav-reducida">
-          <li class="lista"><a href="/acercadenosotros">Acerca de Nosotros</a></li>
-          <li class="lista"><a href="/servicios">Servicios</a></li>
-          <li class="lista"><a href="/contacto">Contacto</a></li>
+          <li class="lista"><a href="/sitem/acercadenosotros">Acerca de Nosotros</a></li>
+          <li class="lista"><a href="/sitem/servicios">Servicios</a></li>
+          <li class="lista"><a href="/sitem/contacto">Contacto</a></li>
         </ul>
       </div>
     </div>
