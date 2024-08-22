@@ -6,7 +6,7 @@
         <div>
           <img class="icono" src="/src/assets/Logo-SITEM.gif" alt="Logotipo SITEM">
         </div>
-        <a style="color: black" href="/">SITEM</a>
+        <a style="color: black" href="/sitem/">SITEM</a>
       </div>
        <ul class="toolbar-nav">
          <li><a href="/sitem/#/acercadenosotros">Acerca de Nosotros</a></li>
