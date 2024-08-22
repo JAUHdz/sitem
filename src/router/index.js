@@ -1,4 +1,4 @@
-import { createRouter, createWebHistory, createWebHashHistory } from 'vue-router'
+import { createRouter, createWebHistory } from 'vue-router'
 import HomeView from '../views/HomeView.vue'
 import AcercaDeNosotros from '../views/AcercaDeNosotrosView.vue'
 import Servicios from '../views/ServiciosView.vue'
@@ -6,7 +6,7 @@ import Contacto from '../views/ContactoView.vue'
 
 
 const router = createRouter({
-  history: createWebHashHistory('/sitem/'),
+  history: createWebHistory(),
   routes: [
     {
       path: '/',
